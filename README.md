@@ -4,8 +4,8 @@
 
 # Kelompok 9 - 2024 C
 ## Anggota Kelompok:
-- Siti Fadilah Nurkhotimah  (1314623019 – UNJ / 251155009 – UNESA)
-- Laili Nurrohmatul Fadhila Zulfa		(24031554093 – UNESA)
+- Siti Fadilah Nurkhotimah         (1314623019 – UNJ / 251155009 – UNESA)
+- Laili Nurrohmatul Fadhila Zulfa  (24031554093 – UNESA)
 
 # Dosen Pengampu: 
 Ulfa Siti Nuraini, S.Stat., M.Stat.
@@ -18,6 +18,6 @@ Project ini bertujuan untuk melakukan data wrangling pada tiga dataset:
 3. Data Kepadatan Penduduk - Badan Pusat Statistik (BPS) => Kepadatan Penduduk menurut Provinsi (jiwa/km2)) Tahun 2019 dan 2020
 
    https://www.bps.go.id/id/statistics-table/2/MTQxIzI=/population-density-by-province.html
-5. Data Kasus DBD - Kementerian Kesehatan => Publikasi Tahunan: Profil Kesehatan Indonesia Tahun 2019 dan 2020)
+5. Data Kasus DBD - Kementerian Kesehatan => Publikasi Tahunan: Profil Kesehatan Indonesia Tahun 2019 dan 2020
 
    https://www.kemkes.go.id/id/category-download/profil-kesehatan
