@@ -1,6 +1,5 @@
-# Data Wrangling Project - REVISI
-# PROJEK AKHIR DATA WRANGLING
-"Analisis Pengaruh Faktor Iklim dan Kepadatan Penduduk terhadap Kasus Demam Berdarah Dengue (DBD) Menurut Provinsi di Indonesia Tahun 2019–2020"
+# REVISI - Project Akhir Data Wrangling 
+"Analisis Pengaruh Faktor Iklim dan Kepadatan Penduduk Terhadap Kasus Demam Berdarah Dengue (DBD) Menurut Provinsi di Indonesia Tahun 2019–2020"
 
 # Kelompok 9 - 2024 C
 ## Anggota Kelompok:
@@ -15,9 +14,9 @@ Project ini bertujuan untuk melakukan data wrangling pada tiga dataset:
 1. Data Iklim - Kaggle => Climate Data Daily IDN
 
    https://www.kaggle.com/datasets/greegtitan/indonesia-climate
-3. Data Kepadatan Penduduk - Badan Pusat Statistik (BPS) => Kepadatan Penduduk menurut Provinsi (jiwa/km2)) Tahun 2019 dan 2020
+2. Data Kepadatan Penduduk - Badan Pusat Statistik (BPS) => Kepadatan Penduduk menurut Provinsi (jiwa/km2)) Tahun 2019 dan 2020
 
    https://www.bps.go.id/id/statistics-table/2/MTQxIzI=/population-density-by-province.html
-5. Data Kasus DBD - Kementerian Kesehatan => Publikasi Tahunan: Profil Kesehatan Indonesia Tahun 2019 dan 2020
+3. Data Kasus DBD - Kementerian Kesehatan => Profil Kesehatan Indonesia Tahun 2019 dan 2020
 
    https://www.kemkes.go.id/id/category-download/profil-kesehatan
